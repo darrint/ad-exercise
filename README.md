@@ -19,3 +19,5 @@ Using our patented AI technology, our leafblower detects when not enough wind po
 "Our reach from our leaf blower can carry leaves from you at the edge of the yard to your other edge of the yard"
 # Controls
 
+- Three Speed Switch
+It will be similar to the speed selector on a power drill
