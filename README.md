@@ -10,6 +10,8 @@ Multiple Speeds (For example three, gust, storm, and big bad wolf)
 
 
 # Colors
+Our leaf blowers come in multiple colors such as:
+Vibrant Red, Classic Blue, Sparkling Pink, Perfect Gold, Shining Green, Deep Black, And More!
 
 # AI Features
 
