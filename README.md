@@ -12,7 +12,7 @@ Multiple Speeds (For example three, gust, storm, and big bad wolf)
 # Colors
 
 # AI Features
-
+Using our patented AI technology, our leafblower detects when not enough wind power is being used and automaticly increases power to get all them nasty leaves out. another feature coming from this technology is it can extend out a stand for itself to rotate on and automaticly blow aways the leaves as they fall!!
 # Reach
 
 # Controls
