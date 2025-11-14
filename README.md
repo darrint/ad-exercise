@@ -14,6 +14,6 @@ Multiple Speeds (For example three, gust, storm, and big bad wolf)
 # AI Features
 
 # Reach
-
+"Our reach from our leaf blower can carry leaves from you at the edge of the yard to your other edge of the yard"
 # Controls
 
