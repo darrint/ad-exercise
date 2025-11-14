@@ -16,6 +16,6 @@ Vibrant Red, Classic Blue, Sparkling Pink, Perfect Gold, Shining Green, Deep Bla
 # AI Features
 
 # Reach
-
+"Our reach from our leaf blower can carry leaves from you at the edge of the yard to your other edge of the yard"
 # Controls
 
