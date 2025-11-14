@@ -17,3 +17,5 @@ Multiple Speeds (For example three, gust, storm, and big bad wolf)
 
 # Controls
 
+- Three Speed Switch
+It will be similar to the speed selector on a power drill
