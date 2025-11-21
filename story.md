@@ -1,4 +1,4 @@
-# World
+
 
 -Gravity pulls towards a black hole nearby the plannet which would pluck people off the planet therefore the people needed to live in caves.
 
@@ -11,8 +11,19 @@ The boy tried with all his might but he could not outplay the king himself.
 But then a mistake a momment never forgotten by the boy he striked, dribbling the ball faster then he ever had before.
 He jumped arm stretched back, and dunked on Lebron.
 
+There was a forest. The forest was very cool, and magic.
+The Hero was to find the forest to get the magic.
+The Hero gets lost in trees and is lost.
+Must find food so The Hero eats the leaves.
+But the leaf blower blowed all the leaves away.
+No more leaves and The Hero starves.
+The end. :c
+
 # Characters
+
+"conner was here" "The Hero"
 
 # Other Stuff
 
 Once upon a time, connor was here.
+
